@@ -9,10 +9,10 @@
 ## 👥 Team Members
 | S.No | Name           | Roll No   | Mail ID              |
 |------|----------------|-----------|----------------------|
-| 1    | Abdul Waheed A | 2322JA02  | 2322JA02@kgcas.com   |
-| 2    | ABITHEESH M    | 2322JA03  | 2322JA03@kgcas.com   |
-| 3    | ADHITHYAN R    | 2322JA04  | 2322JA04@kgcas.com   |
-| 4    | AAKASH V       | 2322JA01  | 2322JA01@kgcas.com   |
+| 1    | Abdul Waheed A | 2322JA02  | 2322ja02@kgcas.com   |
+| 2    | ABITHEESH M    | 2322JA03  | 2322ja03@kgcas.com   |
+| 3    | ADHITHYAN R    | 2322JA04  | 2322ja04@kgcas.com   |
+| 4    | AAKASH V       | 2322JA01  | 2322ja01@kgcas.com   |
 
 ---
 
@@ -80,7 +80,7 @@ This project demonstrates how *Salesforce CRM features* like **custom objects, v
 ---
 
 ## 📽 Demo Video
-🔗 [CRM Application for Jewel Management]( )
+🔗 [CRM Application for Jewel Management](https://drive.google.com/file/d/1BUjyCX_Y2pYb5fmC73oah0MlyRPydDsx/view?usp=drive_link)
 
 ---
 
